@@ -1,2 +1,2 @@
 # Smart-City
-Analyzed Crime Data for City of Chicago and performed predictive modeling.
+Performed exploratory analysis of the Crime Data for City of Chicago. The iPython Notebook consists of visualization helpful for data exploration.
