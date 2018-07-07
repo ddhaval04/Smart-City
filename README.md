@@ -1,4 +1,4 @@
-# CRIME DATA ANALYSIS
+# CHICAGO CRIME DATA ANALYSIS
 
 ![Crime-Data-Analysis](https://github.com/ddhaval04/Smart-City/raw/master/images/smart-city-header.png)
 
@@ -84,4 +84,4 @@ For instance,
 ![Dashboard-2](https://github.com/ddhaval04/Smart-City/raw/master/images/dashboard-2.png)
 
 
-![Dashboard-3](https://github.com/ddhaval04/Smart-City/raw/master/images/dashboard-1.png)
+![Dashboard-3](https://github.com/ddhaval04/Smart-City/raw/master/images/dashboard-3.png)
